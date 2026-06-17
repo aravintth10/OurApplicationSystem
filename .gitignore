@@ -13,3 +13,7 @@ Thumbs.db
 # Large candidate files
 candidates.jsonl
 sample_candidates.json
+
+# Templates
+submission_metadata_template.yaml
+
