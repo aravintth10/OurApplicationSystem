@@ -17,3 +17,7 @@ candidates.jsonl
 # Templates
 submission_metadata_template.yaml
 
+# Metadata
+submission_metadata.yaml
+
+
